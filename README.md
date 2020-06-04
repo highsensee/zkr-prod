@@ -1,10 +1,5 @@
 # zkr-prod
-<<<<<<< Updated upstream
-中科软监管科技组项目仓库-1
-=======
 中科软监管科技组项目仓库 -1
-
->>>>>>> Stashed changes
 
 ​								
 $$
